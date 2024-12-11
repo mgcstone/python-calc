@@ -11,4 +11,4 @@ while True:
             print("До свидания!")
             break
     except ValueError:
-        print("Ошибка")
+        print("Ошибка, вводить нужно только число")
